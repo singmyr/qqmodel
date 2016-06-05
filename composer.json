@@ -1,0 +1,8 @@
+{
+	"name": "singmyr/qqmodel",
+  	"autoload": {
+		"psr-0": {
+			"Singmyr\\QQModel": "src"
+		}
+	}
+}
