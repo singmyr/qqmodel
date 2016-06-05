@@ -1,5 +1,6 @@
 {
 	"name": "singmyr/qqmodel",
+	"version": "0.1",
   	"autoload": {
 		"psr-0": {
 			"Singmyr\\QQModel": "src"
